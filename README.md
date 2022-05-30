@@ -11,7 +11,7 @@ Lớp: K66CC - CN1
 * Struct
 
 3. Tự đánh giá và nhận xét:
-* Game của em còn rất cơ bản nên trong thời gian tới em sẽ bổ sung thêm Menu chính, điểm số, âm thanh cho Game và thêm vào đó là các level chơi mới để cải thiện hơn.
+* Game của em còn rất cơ bản nên trong thời gian tới em sẽ bổ sung thêm Menu chính, điểm số, âm thanh và thêm vào đó là các level chơi mới để Game hoàn thiện hơn.
 * Qua quá trình làm game em đã học hỏi và rút ra được nhiều kiến thức, thông tin và bước đầu làm quen với việc làm một dự án nhỏ mới mẻ giúp ích rất nhiều cho bản thân.
 
 
