@@ -1,6 +1,6 @@
 # BÀI TẬP LỚN LTNC INT2215_1 (NHÓM 4) 
-*Họ và tên: Cao Xuân Dũng
-*Lớp: K66CC - CN1
+* Họ và tên: Cao Xuân Dũng
+* Lớp: K66CC - CN1
 
 1. Mô tả Game: 
 * Bejewled (hay còn gọi là Xếp hình kim cương) thuộc thể loại game Kim cương cổ điển, người chơi sẽ chinh phục những viên kim cương đầy sắc màu bằng cách sắp xếp 3 viên kim cương cùng màu trở lên thành một hàng là ăn điểm. Để sắp xếp người chơi cần hãy chuột trái vào hai viên kim cương cạnh nhau để hoán đổi vị trí của chúng.
